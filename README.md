@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TinkerNZ
-- 👀 I’m interested in flightsims, specifically X-Plane 11
+- 👀 I’m interested in flightsims, specifically X-Plane 12
 - 🌱 I’m currently learning lots on how to maximize and improve how XPlane performs for me.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Best is via my email.
